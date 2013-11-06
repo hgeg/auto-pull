@@ -1,0 +1,2 @@
+#!/bin/sh
+spawn-fcgi -d <PROJECT_PATH> -f <PROJECT_PATH>/pull.py -a 127.0.0.1 -p 17225

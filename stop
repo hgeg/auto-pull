@@ -1,0 +1,2 @@
+#!/bin/sh
+kill `pgrep -f "python <PROJECT_PATH>/index.py"`
